@@ -1,7 +1,7 @@
 import express from 'express'
 const router=express.Router()
 import Productos2 from "../models/productos2.js"
-import productos2 from '../models/productos2.js'
+
 
 //ingresamos un producto (post)
 router.post('/agregar-productos',async(req,res)=>{

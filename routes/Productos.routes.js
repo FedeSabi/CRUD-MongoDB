@@ -1,6 +1,7 @@
 import express from 'express'
 const router=express.Router()
 import Productos2 from "../models/productos2.js"
+import productos2 from '../models/productos2.js'
 
 //ingresamos un producto (post)
 router.post('/agregar-productos',async(req,res)=>{
@@ -35,11 +36,12 @@ res.status(200).json(productos)
  }
 })
 
-//eliminar por id
+//eliminar un producto por id
 
 router.delete('/eliminar-productos/:id',async (req,res)=>{
    try{
    const productos= await Productos2.findByIdAndDelete(req.params.id)
+   //console.log(typeof(producto)) porbar por si las dudas en vez del null!!
    if(productos===null){
       throw new Error('producto no encontrado')
    }
@@ -50,4 +52,16 @@ router.delete('/eliminar-productos/:id',async (req,res)=>{
    }
 })
 
+// modificar producto por id
+
+router.put('/modificar-productos/:id', async(req,res)=>{
+try{
+const productos= await productos2.findByIdAndUpdate(req.params.id,req.body)
+res.status(200).json({mensaje:('producto modificado')})
+}catch(error){
+   console.log(error)
+   res.status(404).json({mensaje:' error interno del sistema'})
+
+}
+})
 export default router

@@ -1,251 +1,277 @@
-[{
-  "_id": {
-    "$oid": "648530f7f667f29b7ccdfcd2"
+[
+  {
+    "_id": {
+      "$oid": "648530f7f667f29b7ccdfcd2"
+    },
+    "descripcion": "Billetera Mujer Tropea",
+    "tipo": "Orsha",
+    "stock": 5,
+    "precio": 59.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Billetera Mujer Tropea",
-  "tipo": "Orsha",
-  "stock": 5,
-  "precio": 59.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "648538acd46b5d6a2a1de6d2"
+  {
+    "_id": {
+      "$oid": "648538acd46b5d6a2a1de6d2"
+    },
+    "descripcion": "Everyday Pocket Tote",
+    "tipo": "MULBERRY",
+    "stock": 5,
+    "precio": 19.95,
+    "imagen": "https://unsplash.com/es/fotos/POZAPiiPxGk",
+    "__v": 0
   },
-  "descripcion": "Everyday Pocket Tote",
-  "tipo": "MULBERRY",
-  "stock": 5,
-  "precio": 19.95,
-  "imagen": "https://unsplash.com/es/fotos/POZAPiiPxGk",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "648538e2d46b5d6a2a1de6d4"
+  {
+    "_id": {
+      "$oid": "648538e2d46b5d6a2a1de6d4"
+    },
+    "descripcion": "Everyday Pocket Tote",
+    "tipo": "MULBERRY",
+    "stock": 5,
+    "precio": 18.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Everyday Pocket Tote",
-  "tipo": "MULBERRY",
-  "stock": 5,
-  "precio": 18.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485390cd46b5d6a2a1de6d6"
+  {
+    "_id": {
+      "$oid": "6485390cd46b5d6a2a1de6d6"
+    },
+    "descripcion": "Large Zip Top Pocket Tote",
+    "tipo": "WASHED BLACK",
+    "stock": 5,
+    "precio": 24.95,
+    "imagen": "https://cdn.shopify.com/s/files/1/0579/0606/9702/products/Hb716f6fdf8c54b33ab212bba39a5b9e6v_800x.jpg?v=1676391671",
+    "__v": 0
   },
-  "descripcion": "Large Zip Top Pocket Tote",
-  "tipo": "WASHED BLACK",
-  "stock": 5,
-  "precio": 24.95,
-  "imagen": "https://cdn.shopify.com/s/files/1/0579/0606/9702/products/Hb716f6fdf8c54b33ab212bba39a5b9e6v_800x.jpg?v=1676391671",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "64853979d46b5d6a2a1de6d8"
+  {
+    "_id": {
+      "$oid": "64853979d46b5d6a2a1de6d8"
+    },
+    "descripcion": "Crossbody Zip Top Pocket Tote",
+    "tipo": "MULBERRY",
+    "stock": 5,
+    "precio": 29.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Crossbody Zip Top Pocket Tote",
-  "tipo": "MULBERRY",
-  "stock": 5,
-  "precio": 29.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d05bfd1d662722d6f0e0"
+  {
+    "_id": {
+      "$oid": "6485d05bfd1d662722d6f0e0"
+    },
+    "descripcion": "Crossbody Zip Top Pocket Tote",
+    "tipo": "MULBERRY",
+    "stock": 5,
+    "precio": 29.95,
+    "imagen": "https://unsplash.com/es/fotos/Kqc-mLtLQls",
+    "__v": 0
   },
-  "descripcion": "Crossbody Zip Top Pocket Tote",
-  "tipo": "MULBERRY",
-  "stock": 5,
-  "precio": 29.95,
-  "imagen": "https://unsplash.com/es/fotos/Kqc-mLtLQls",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d09bfd1d662722d6f0e2"
+  {
+    "_id": {
+      "$oid": "6485d09bfd1d662722d6f0e2"
+    },
+    "descripcion": "Porta Celular Colmena Bandolera",
+    "tipo": "Mini Bag",
+    "stock": 2,
+    "precio": 15.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Porta Celular Colmena Bandolera",
-  "tipo": "Mini Bag",
-  "stock": 2,
-  "precio": 15.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d0c1fd1d662722d6f0e4"
+  {
+    "_id": {
+      "$oid": "6485d0c1fd1d662722d6f0e4"
+    },
+    "descripcion": "Billetera Mujer Tropea",
+    "tipo": "Orsha",
+    "stock": 5,
+    "precio": 59.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Billetera Mujer Tropea",
-  "tipo": "Orsha",
-  "stock": 5,
-  "precio": 59.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d212fd1d662722d6f0e6"
+  {
+    "_id": {
+      "$oid": "6485d212fd1d662722d6f0e6"
+    },
+    "descripcion": "Cartera Shopping Bag Mujer",
+    "tipo": "Tropea Rossa",
+    "stock": 2,
+    "precio": 33.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Cartera Shopping Bag Mujer",
-  "tipo": "Tropea Rossa",
-  "stock": 2,
-  "precio": 33.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d23cfd1d662722d6f0e8"
+  {
+    "_id": {
+      "$oid": "6485d23cfd1d662722d6f0e8"
+    },
+    "descripcion": "Monedero Tropea",
+    "tipo": "Mini Nina",
+    "stock": 2,
+    "precio": 23.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Monedero Tropea",
-  "tipo": "Mini Nina",
-  "stock": 2,
-  "precio": 23.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d27ffd1d662722d6f0ea"
+  {
+    "_id": {
+      "$oid": "6485d27ffd1d662722d6f0ea"
+    },
+    "descripcion": "Cartera Porta Celular",
+    "tipo": "Mujer Eco Cuero",
+    "stock": 8,
+    "precio": 63.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Cartera Porta Celular",
-  "tipo": "Mujer Eco Cuero",
-  "stock": 8,
-  "precio": 63.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d2acfd1d662722d6f0ec"
+  {
+    "_id": {
+      "$oid": "6485d2acfd1d662722d6f0ec"
+    },
+    "descripcion": "Cartera Tote Leder Hd",
+    "tipo": "Vintage",
+    "stock": 4,
+    "precio": 60.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Cartera Tote Leder Hd",
-  "tipo": "Vintage",
-  "stock": 4,
-  "precio": 60.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d32bfd1d662722d6f0ee"
+  {
+    "_id": {
+      "$oid": "6485d32bfd1d662722d6f0ee"
+    },
+    "descripcion": "Cartera Tote Leder Hd",
+    "tipo": "Cuero Vacuno Curtido Vegetal",
+    "stock": 4,
+    "precio": 25.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Cartera Tote Leder Hd",
-  "tipo": "Cuero Vacuno Curtido Vegetal",
-  "stock": 4,
-  "precio": 25.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d357fd1d662722d6f0f0"
+  {
+    "_id": {
+      "$oid": "6485d357fd1d662722d6f0f0"
+    },
+    "descripcion": "Bandolera Cuero Vacuno Genuino",
+    "tipo": "Curtido Vegetal",
+    "stock": 4,
+    "precio": 45.95,
+    "imagen": "https://crespo.com.ar/wp-content/uploads/2020/08/tcr494216.jpg",
+    "__v": 0
   },
-  "descripcion": "Bandolera Cuero Vacuno Genuino",
-  "tipo": "Curtido Vegetal",
-  "stock": 4,
-  "precio": 45.95,
-  "imagen": "https://crespo.com.ar/wp-content/uploads/2020/08/tcr494216.jpg",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d3fafd1d662722d6f0f2"
+  {
+    "_id": {
+      "$oid": "6485d3fafd1d662722d6f0f2"
+    },
+    "descripcion": "Mochila Porta Para Notebook",
+    "tipo": "Smart Bag Usb",
+    "stock": 5,
+    "precio": 45.95,
+    "imagen": "https://unsplash.com/es/fotos/HqtYwlY9dxs",
+    "__v": 0
   },
-  "descripcion": "Mochila Porta Para Notebook",
-  "tipo": "Smart Bag Usb",
-  "stock": 5,
-  "precio": 45.95,
-  "imagen": "https://unsplash.com/es/fotos/HqtYwlY9dxs",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485d9dffd1d662722d6f0f8"
+  {
+    "_id": {
+      "$oid": "6485d9dffd1d662722d6f0f8"
+    },
+    "descripcion": "Mochila Urbana Escolar",
+    "tipo": "Universitaria Deportiva Reforzada",
+    "stock": 10,
+    "precio": 35.95,
+    "imagen": "https://unsplash.com/es/fotos/BmH09wAkJa8",
+    "__v": 0
   },
-  "descripcion": "Mochila Urbana Escolar",
-  "tipo": "Universitaria Deportiva Reforzada",
-  "stock": 10,
-  "precio": 35.95,
-  "imagen": "https://unsplash.com/es/fotos/BmH09wAkJa8",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485dab4fd1d662722d6f0fa"
+  {
+    "_id": {
+      "$oid": "6485dab4fd1d662722d6f0fa"
+    },
+    "descripcion": "Mochila Trekking Running",
+    "tipo": "Camelback eco cuero",
+    "stock": 1,
+    "precio": 12.95,
+    "imagen": "https://unsplash.com/es/fotos/MzTTVl_trFw",
+    "__v": 0
   },
-  "descripcion": "Mochila Trekking Running",
-  "tipo": "Camelback eco cuero",
-  "stock": 1,
-  "precio": 12.95,
-  "imagen": "https://unsplash.com/es/fotos/MzTTVl_trFw",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485dbf7fd1d662722d6f0fc"
+  {
+    "_id": {
+      "$oid": "6485dbf7fd1d662722d6f0fc"
+    },
+    "descripcion": "Bolso Conservador Mochila",
+    "tipo": "Discovery Camping",
+    "stock": 3,
+    "precio": 77.95,
+    "imagen": "https://unsplash.com/es/fotos/HKOr0LoRGFM",
+    "__v": 0
   },
-  "descripcion": "Bolso Conservador Mochila",
-  "tipo": "Discovery Camping",
-  "stock": 3,
-  "precio": 77.95,
-  "imagen": "https://unsplash.com/es/fotos/HKOr0LoRGFM",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485eb62fd1d662722d6f0fe"
+  {
+    "_id": {
+      "$oid": "6485eb62fd1d662722d6f0fe"
+    },
+    "descripcion": "Bolso Lunchera Conservadora Termica Frio Y Calor",
+    "tipo": "Discovery Camping",
+    "stock": 2,
+    "precio": 107.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Bolso Lunchera Conservadora Termica Frio Y Calor",
-  "tipo": "Discovery Camping",
-  "stock": 2,
-  "precio": 107.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485ebccfd1d662722d6f100"
+  {
+    "_id": {
+      "$oid": "6485ebccfd1d662722d6f100"
+    },
+    "descripcion": "Guantes De Cuero Oveja Genuino Hombre",
+    "tipo": "MARRONS",
+    "stock": 12,
+    "precio": 17.95,
+    "imagen": "https://unsplash.com/es/fotos/cNe8GsQR-OQ",
+    "__v": 0
   },
-  "descripcion": "Guantes De Cuero Oveja Genuino Hombre",
-  "tipo": "MARRONS",
-  "stock": 12,
-  "precio": 17.95,
-  "imagen": "https://unsplash.com/es/fotos/cNe8GsQR-OQ",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485ec79fd1d662722d6f102"
+  {
+    "_id": {
+      "$oid": "6485ec79fd1d662722d6f102"
+    },
+    "descripcion": "Guantes Cabretilla Cuero",
+    "tipo": "Reglamentarios Militar Marron",
+    "stock": 6,
+    "precio": 23.95,
+    "imagen": "https://unsplash.com/es/fotos/PxRe7yS-3b4",
+    "__v": 0
   },
-  "descripcion": "Guantes Cabretilla Cuero",
-  "tipo": "Reglamentarios Militar Marron",
-  "stock": 6,
-  "precio": 23.95,
-  "imagen": "https://unsplash.com/es/fotos/PxRe7yS-3b4",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485ecfefd1d662722d6f104"
+  {
+    "_id": {
+      "$oid": "6485ecfefd1d662722d6f104"
+    },
+    "descripcion": "Guantes Cabretilla Abrigados",
+    "tipo": "Forrados Pelo Nutria Unisex Rg",
+    "stock": 6,
+    "precio": 25.95,
+    "imagen": "https://unsplash.com/es/fotos/9-5vAxS_wS0",
+    "__v": 0
   },
-  "descripcion": "Guantes Cabretilla Abrigados",
-  "tipo": "Forrados Pelo Nutria Unisex Rg",
-  "stock": 6,
-  "precio": 25.95,
-  "imagen": "https://unsplash.com/es/fotos/9-5vAxS_wS0",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6485ed55fd1d662722d6f106"
+  {
+    "_id": {
+      "$oid": "6485ed55fd1d662722d6f106"
+    },
+    "descripcion": "Maletín Portafolio Oficio Cuero Vacuno Legítimo",
+    "tipo": "Borsallino",
+    "stock": 11,
+    "precio": 55.95,
+    "imagen": "https://cdn.shopify.com/s/files/1/0579/0606/9702/products/Hed2e21a23520408ba5db2e13981006e5i.jpg?v=1660861273",
+    "__v": 0
   },
-  "descripcion": "Maletín Portafolio Oficio Cuero Vacuno Legítimo",
-  "tipo": "Borsallino",
-  "stock": 11,
-  "precio": 55.95,
-  "imagen": "https://cdn.shopify.com/s/files/1/0579/0606/9702/products/Hed2e21a23520408ba5db2e13981006e5i.jpg?v=1660861273",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "648604abfd1d662722d6f108"
+  {
+    "_id": {
+      "$oid": "648604abfd1d662722d6f108"
+    },
+    "descripcion": "Morral Maletín De Cuero Vacuno Legítimo ",
+    "tipo": "Rg Cueros",
+    "stock": 6,
+    "precio": 75.15,
+    "imagen": "no tiene imagen",
+    "__v": 0
   },
-  "descripcion": "Morral Maletín De Cuero Vacuno Legítimo ",
-  "tipo": "Rg Cueros",
-  "stock": 6,
-  "precio": 75.15,
-  "imagen": "no tiene imagen",
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "648604d7fd1d662722d6f10a"
-  },
-  "descripcion": "Morral De Cuero Legitimo - Tamaño Chico",
-  "tipo": "Rg Cueros",
-  "stock": 6,
-  "precio": 36.95,
-  "imagen": "no tiene imagen",
-  "__v": 0
-}]
+  {
+    "_id": {
+      "$oid": "648604d7fd1d662722d6f10a"
+    },
+    "descripcion": "Morral De Cuero Legitimo - Tamaño Chico",
+    "tipo": "Rg Cueros",
+    "stock": 6,
+    "precio": 36.95,
+    "imagen": "no tiene imagen",
+    "__v": 0
+  }
+]

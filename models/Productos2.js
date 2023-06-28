@@ -1,26 +1,29 @@
-import {Schema,model} from'mongoose'
+import { Schema, model } from 'mongoose'
 
 const Productos2Schema = new Schema({
-    descripcion:{
-        type:String,
-        required:true,
-    },
-    tipo:{
+    descripcion: {
         type: String,
-        required:true
+        required: true,
     },
-    stock:{
+    tipo: {
+        type: String,
+        required: true
+    },
+    stock: {
         type: Number,
         required: true
     },
-    precio:{
+    precio: {
         type: Number,
         required: true,
     },
-    imagen:{
-        type:String,
-        required:true
+    imagen: {
+        type: String,
+        required: true
     }
 })
 
-export default model('nuevosProductos',Productos2Schema) 
+
+
+
+export default model('nuevosProductos', Productos2Schema)
